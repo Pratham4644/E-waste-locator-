@@ -54,3 +54,6 @@ ML + software engineering + UX + deployment + practical usability.
 
 #AI #MachineLearning #YOLOv8 #ComputerVision #Streamlit #Python #DeepLearning #Ewaste #Sustainability #AIProjects #DataScience #OpenSource
 <img width="999" height="873" alt="image" src="https://github.com/user-attachments/assets/a474b5ec-cfc7-4271-8dc6-de4042d60e6b" />
+<img width="1067" height="900" alt="image" src="https://github.com/user-attachments/assets/8e255dba-32ef-4bc8-bc91-068bab4a722e" />
+<img width="1113" height="872" alt="image" src="https://github.com/user-attachments/assets/459492d3-1eb5-438c-aa4d-d64e7ccf02c1" />
+
