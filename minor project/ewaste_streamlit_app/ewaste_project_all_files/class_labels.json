@@ -1,0 +1,12 @@
+{
+  "classes": [
+    "Usable",
+    "Better",
+    "Trash"
+  ],
+  "indices": {
+    "Usable": 0,
+    "Better": 1,
+    "Trash": 2
+  }
+}
